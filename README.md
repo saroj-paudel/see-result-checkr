@@ -16,3 +16,9 @@ http://result.see.gov.np/result
 
 **Available Years:**
 2074 - 2080
+
+**Requirements:**
+```
+requests
+tabulate
+```
